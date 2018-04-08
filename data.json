@@ -1,0 +1,47 @@
+{
+  "basics":{
+"name":"harshi",
+"photo":"harshi.png",
+"email":"harshi@gmail.com",
+"mobileno":"6784677786",
+"address":"SVIT college"
+},
+"carrer":{
+  "info":"Career Objective in Resume is the most important part of resume which describe your motive of professional career and Job. So it should be originally written by your own words that what you want for your future growth and what is the objective of your career."
+},
+"education":[
+  {
+    "degree":"B.Tech",
+    "institute":"SVIT,Anantapur",
+    "data":["2016-20","80%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Narayana,Anantapur",
+    "data":["2014-16","90%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Z.P.H.S,Anantapur",
+    "data":["2014","88%"]
+  }
+],
+"skills":[
+{
+  "sname":"Languages",
+  "sdata":["c,c++,java"]
+},
+{
+  "sname":"DataBases",
+  "sdata":["oracle","MySql","PDF"]
+},
+{
+"sname":"web Technologies",
+"sdata":["HTML","xml","css","php","javascript"]
+},
+{
+"sname":"Operating System",
+"sdata":["windows","unix","linux"]
+}
+]
+}
